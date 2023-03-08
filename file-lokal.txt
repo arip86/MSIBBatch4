@@ -1,0 +1,2 @@
+ini adalah proses remote
+yang mana kita bisa mengendalikan repository yang ada di dalam gihub dengan gitbash yang ada di lokal kita
