@@ -7,7 +7,7 @@ Rincian Materi Kampus Merdeka Batch 4
 - Laravel
 - Rest API 
 - Final Project
-- Management Proyek
+- Management proyek perangkat lunak
 
 menambahkan file kedalam github disebut dengan adding (git add)
 selanjutnya menandai file yang disebut commit (git commit)
