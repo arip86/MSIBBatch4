@@ -1,2 +1,2 @@
-ini adalah proses remote dari lokal repo
+ini adalah proses remote
 yang mana kita bisa mengendalikan repository yang ada di dalam gihub dengan gitbash yang ada di lokal kita
